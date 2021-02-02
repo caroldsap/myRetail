@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7a4402d-b4d6-4716-bc85-fd2d5fc1665d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="169" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Preethi Albert" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nqFe3YHFSl3gBRqglHWePodE87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.myRetail.dto" />
+      <recent name="com.example.myRetail.repository" />
+      <recent name="com.example.myRetail.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductServiceTest">
+    <configuration name="MyRetailApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.myRetail.MyRetailApplication" />
+      <module name="myRetail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myRetail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myRetail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myRetail.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.myRetail.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myRetail.controller.ProductControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductControllerTest.getInvalidProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myRetail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myRetail.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.myRetail.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myRetail.controller.ProductControllerTest" />
+      <option name="METHOD_NAME" value="getInvalidProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductControllerTest.saveProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myRetail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myRetail.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.myRetail.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myRetail.controller.ProductControllerTest" />
+      <option name="METHOD_NAME" value="saveProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myRetail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.myRetail.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.myRetail.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myRetail.service.ProductServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceTest" />
+        <item itemvalue="Application.MyRetailApplication" />
+        <item itemvalue="JUnit.ProductControllerTest" />
+        <item itemvalue="JUnit.ProductControllerTest.saveProduct" />
+        <item itemvalue="JUnit.ProductControllerTest.getInvalidProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a4402d-b4d6-4716-bc85-fd2d5fc1665d" name="Default Changelist" comment="" />
+      <created>1612109806100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612109806100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612152332855">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="154" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1612152332855" />
+    <state x="505" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1612285929395">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="505" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1612285929395" />
+    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612284347571">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1612284347571" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1612288269071">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1612288269071" />
+    <state x="480" y="128" key="FileChooserDialogImpl" timestamp="1612288223389">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="128" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1612288223389" />
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1612288086169">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612288086169" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1612288086169">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612288086169" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1612288086168">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612288086168" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1612288086169">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612288086169" />
+    <state width="1286" height="219" key="GridCell.Tab.1.bottom" timestamp="1612287399097">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="219" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612287399097" />
+    <state width="1286" height="219" key="GridCell.Tab.1.center" timestamp="1612287399097">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="219" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1612287399097" />
+    <state width="1286" height="219" key="GridCell.Tab.1.left" timestamp="1612287399097">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="219" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1612287399097" />
+    <state width="1286" height="219" key="GridCell.Tab.1.right" timestamp="1612287399097">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="219" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1612287399097" />
+    <state x="127" y="107" width="1146" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1612286521457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="127" y="107" width="1146" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1612286521457" />
+    <state x="408" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1612271038299">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="408" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1612271038299" />
+    <state x="511" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612288275489">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="511" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1612288275489" />
+    <state x="407" y="132" width="586" height="478" key="find.popup" timestamp="1612283878644">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="407" y="132" width="586" height="478" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1612283878644" />
+    <state x="341" y="101" width="700" height="530" key="recent.locations.popup" timestamp="1612164894883">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="341" y="101" width="700" height="530" key="recent.locations.popup/0.0.1366.738@0.0.1366.738" timestamp="1612164894883" />
+    <state x="363" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1612288015193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1612288015193" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/myRetail/controller/ProductController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/myRetail/service/ProductServiceImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/myRetail/service/ProductServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/myRetail/service/ProductServiceImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/myRetail/service/ProductServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/myRetail/service/ProductServiceTest.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/myRetail/service/ProductServiceImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myRetail$ProductControllerTest.ic" NAME="ProductControllerTest Coverage Results" MODIFIED="1612184175892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.myRetail.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myRetail$ProductControllerTest_saveProduct.ic" NAME="ProductControllerTest.saveProduct Coverage Results" MODIFIED="1612184086732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.myRetail.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myRetail$MyRetailApplication.ic" NAME="MyRetailApplication Coverage Results" MODIFIED="1612155133398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.myRetail.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myRetail$ProductServiceTest.ic" NAME="ProductServiceTest Coverage Results" MODIFIED="1612288086150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.myRetail.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
